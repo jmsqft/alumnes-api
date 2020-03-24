@@ -23,6 +23,12 @@
             "nom": "Pere",
             "cognoms": "Ribalta Nieto",
             "nota": 7
+        },
+        {
+            "aneu":7
+            "nom":"Xènia"
+            "cognoms": "Péez Lecha"
+            "nota":8
         }
     ]
 }
